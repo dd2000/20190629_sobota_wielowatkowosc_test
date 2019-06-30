@@ -1,0 +1,12 @@
+Zadanie 2c: Liczby pierwsze -wielowątkowo•
+Zmodyfikuj kod tak, żeby sprawdzanie pierwszości liczb wykonywało się na wielu wątkach jednocześnie.•
+
+Wskazówka: Jedno z możliwych rozwiązań wymaga użycia ExecutorService i CountDownLatch•
+
+Zadania dodatkowe: •zmierz przyśpieszenie w porównaniu do podejścia sekwencyjnego(jednowątkowego)
+                    z poprzedniegozadania•
+
+Przyśpiesz BARDZIEJ –ile wątków spisuje się najlepiej?
+
+Jak można dalej przyśpieszyć obliczenia (modyfikacje kodu w zakresie wątków, jak i samego algorytmu
+sprawdzania)?
